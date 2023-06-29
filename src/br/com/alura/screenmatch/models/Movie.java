@@ -2,7 +2,12 @@ package br.com.alura.screenmatch.models;
 import br.com.alura.screenmatch.calculus.Rated;
 
 public class Movie extends Title implements Rated{
+	
 	private String director;
+	
+	public Movie(String name, int releaseYear) {
+		super(name, releaseYear);
+	}
 
 	public String getDirector() {
 		return director;
@@ -15,5 +20,10 @@ public class Movie extends Title implements Rated{
 	@Override
 	public int getReview() {
 		return (int) averageRating() / 2;
+	}
+	
+	@Override
+	public String toString() {
+		return this.getName() + " (%d)".formatted(this.getReleaseYear());
 	}
 }
