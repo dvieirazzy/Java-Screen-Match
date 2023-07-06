@@ -11,4 +11,9 @@ Projeto do protótipo do back-end de uma plataforma de filmes, utilizando os 4 p
 
 Além disso também pude trabalhar com listas e coleções de dados, implementando métodos e critérios de ordenação.
 
+Neste projeto também foi consumida a API da OMDb, para criar um sistema no qual é possível pesquisar por qualquer filme, e 
+posteriormente gerar um arquivo .json com a ficha técnica dos filmes pesquisados.
+
+Aplicando conceitos de API, tratamento de exceções, serialização e desserialização usando a lib GSON do Google, que deve estar instalada na máquina para que o sistema seja comilado.
+
 Este projeto me ajudou muito a aplicar os conhecimentos teóricos da POO, além de me fornecer ferramentas para que eu possa desenvolver ideias de projetos, projeto excepcional!
