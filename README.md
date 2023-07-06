@@ -9,4 +9,6 @@ Projeto do protótipo do back-end de uma plataforma de filmes, utilizando os 4 p
 * **Herança:** na hernaça uma classe filha (SubClasse), que é mais especializada, herda os atributos e métodos de um classe mãe (SuperClasse), que é mais generalizada;
 * **Polimorfismo:** um mesmo objeto pode ser chamado de diferentes forma, uma subClasse pode ser mencionada usando a sua SuperClasse da qual ela extende;
 
+Além disso também pude trabalhar com listas e coleções de dados, implementando métodos e critérios de ordenação.
+
 Este projeto me ajudou muito a aplicar os conhecimentos teóricos da POO, além de me fornecer ferramentas para que eu possa desenvolver ideias de projetos, projeto excepcional!
