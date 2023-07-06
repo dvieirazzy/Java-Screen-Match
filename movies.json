@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "The Avengers",
+    "ReleaseYear": 2012,
+    "InThePlan": false,
+    "ReviewsSum": 0.0,
+    "ReviewsNumber": 0,
+    "DurationInMinutes": 143
+  },
+  {
+    "Name": "Harry Potter and the Deathly Hallows: Part 2",
+    "ReleaseYear": 2011,
+    "InThePlan": false,
+    "ReviewsSum": 0.0,
+    "ReviewsNumber": 0,
+    "DurationInMinutes": 130
+  },
+  {
+    "Name": "Matrix",
+    "ReleaseYear": 1993,
+    "InThePlan": false,
+    "ReviewsSum": 0.0,
+    "ReviewsNumber": 0,
+    "DurationInMinutes": 60
+  },
+  {
+    "Name": "Iron Man",
+    "ReleaseYear": 2008,
+    "InThePlan": false,
+    "ReviewsSum": 0.0,
+    "ReviewsNumber": 0,
+    "DurationInMinutes": 126
+  },
+  {
+    "Name": "Toy Story",
+    "ReleaseYear": 1995,
+    "InThePlan": false,
+    "ReviewsSum": 0.0,
+    "ReviewsNumber": 0,
+    "DurationInMinutes": 81
+  }
+]
